@@ -31,3 +31,4 @@ jobs:
           gemspec_name: jekyll-seo-tag
         env:
           GEM_HOST_API_KEY: ${{ secrets.RUBYGEMS_GEM_PUSH_API_KEY }}
+
