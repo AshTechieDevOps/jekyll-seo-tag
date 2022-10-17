@@ -101,3 +101,4 @@ jobs:
           bundler-cache: true
       - name: Test Gem build
         run:  bundle exec gem build jekyll-seo-tag.gemspec
+
